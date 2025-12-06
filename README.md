@@ -3,10 +3,15 @@
 # ComfyUI-4-Potatoes
 </div>
 
-This is an unofficial hard fork of ComfyUI version 0.3.75. In the subsequent version of the official ComfyUI (0.3.76) changes were made that caused severe problems with the MultiGPU nodes which are absolutely essential for video generation on low VRAM systems.  
-  
-### EXTREMELY IMPORTANT:
-This fork will not be actively maintained so **DO NOT** log issues to either this repo or the official ComfyUI repo. If you need to have an updated version, you need to download ComfyUI from the official repo.  
+**Unofficial frozen hard-fork of ComfyUI at commit/tag v0.3.75**
+
+The next official release (v0.3.76) introduced changes that broke critical Multi-GPU functionality used for video generation on low-VRAM systems. This fork exists solely to preserve a working state of ComfyUI as of v0.3.75.  
+
+### EXTREMELY IMPORTANT NOTICES:
+- This repository is **archived and unmaintained**.  
+- No new features, bug fixes, or support will be provided.  
+- Please **do not** open issues or pull requests here or in the official ComfyUI repository about this fork.  
+- If you need the latest ComfyUI with ongoing development and support, use the official repository: https://github.com/comfyanonymous/ComfyUI
 
 ---
 <div align="center">
