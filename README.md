@@ -6,9 +6,9 @@
 **Unofficial frozen hard-fork of ComfyUI at commit/tag v0.3.75**
 
 The next official release (v0.3.76) introduced changes that broke critical Multi-GPU functionality used for video generation on low-VRAM systems. This fork exists solely to preserve a working state of ComfyUI as of v0.3.75.  
-
-#### The following modifications and additions have been made *(See LICENSE files for individual licencing)*:  
-1. The `custom_nodes` sub-directory has been populated with:
+---
+#### The following modifications and additions have been made:  
+1. The `custom_nodes` sub-directory has been pre-populated with *(See LICENSE files for individual licencing)*:
 - ComfyUI-Fossiel-MultiGPU from ComfyUI-Fossiel-MultiGPU *https://github.com/Fossiel/ComfyUI-Fossiel-MultiGPU*  
 - ComfyUI-Fossiel-QoL-Nodes from *https://github.com/Fossiel/ComfyUI-Fossiel-QoL-Nodes*  
 - ComfyUI-Fossiel-WAN-Additional-Tilers from *https://github.com/Fossiel/ComfyUI-Fossiel-WAN-Additional-Tilers*  
@@ -18,7 +18,7 @@ The next official release (v0.3.76) introduced changes that broke critical Multi
 2. Designed to run alongside an existing installation of ComfyUI
 3. Up to date support for:
 - Z-Image Turbo including controlnet and LoRA support  
-
+---
 ### EXTREMELY IMPORTANT NOTICES:
 - This repository is **archived and unmaintained**.  
 - No new features, bug fixes, or support will be provided.  
