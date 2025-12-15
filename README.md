@@ -10,7 +10,7 @@ The next official release (v0.3.76) introduced changes that broke critical Multi
 ---
 #### The following modifications and additions have been made:  
 1. The `custom_nodes` sub-directory has been pre-populated with *(See LICENSE files for individual licensing)*:
-- ComfyUI-Fossiel-MultiGPU from ComfyUI-Fossiel-MultiGPU *https://github.com/Fossiel/ComfyUI-Fossiel-MultiGPU*  
+- ComfyUI-Fossiel-MultiGPU from *https://github.com/Fossiel/ComfyUI-Fossiel-MultiGPU*  
 - ComfyUI-Fossiel-QoL-Nodes from *https://github.com/Fossiel/ComfyUI-Fossiel-QoL-Nodes*  
 - ComfyUI-Fossiel-WAN-Additional-Tilers from *https://github.com/Fossiel/ComfyUI-Fossiel-WAN-Additional-Tilers*  
 - ComfyUI-GGUF from *https://github.com/city96/ComfyUI-GGUF*  
