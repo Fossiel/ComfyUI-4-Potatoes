@@ -6,6 +6,7 @@
 **Unofficial frozen hard-fork of ComfyUI at commit/tag v0.3.75**
 
 The next official release (v0.3.76) introduced changes that broke critical Multi-GPU functionality used for video generation on low-VRAM systems. This fork exists solely to preserve a working state of ComfyUI as of v0.3.75.  
+  
 ---
 #### The following modifications and additions have been made:  
 1. The `custom_nodes` sub-directory has been pre-populated with *(See LICENSE files for individual licencing)*:
