@@ -18,7 +18,9 @@ The next official release (v0.3.76) introduced changes that broke critical Multi
 - ComfyUI-MultiGPU from *https://github.com/pollockjj/ComfyUI-MultiGPU*  
 2. Designed to run alongside an existing installation of ComfyUI
 3. Up to date support for:
-- Z-Image Turbo including controlnet and LoRA support  
+- Z-Image Turbo including controlnet union 2.0 & 2.1, inpainting and LoRA support  
+- WanMove
+- Qwen Image Edit 2511 new reference
 ---
 ### EXTREMELY IMPORTANT NOTICES:
 - This repository is **archived and unmaintained**.  
